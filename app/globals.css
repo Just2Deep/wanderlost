@@ -20,7 +20,7 @@ body {
   }
 
   .btn_white_text {
-    @apply border-white bg-white px-8 py-3 text-gray-90
+    @apply border-gray-300 bg-white px-8 py-3 text-gray-90
   }
 
   .btn_green {
