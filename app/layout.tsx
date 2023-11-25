@@ -6,6 +6,7 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
     title: "Wander Lost",
     description: "Travel Website for Camping",
+    icons: [{ url: "/logo.svg" }],
 };
 
 export default function RootLayout({
